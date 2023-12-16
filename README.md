@@ -8,10 +8,13 @@
 ## Built With
 [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-[Numpy](https://en.wikipedia.org/wiki/NumPy)
+[Tensorflow]([https://en.wikipedia.org/wiki/NumPy](https://www.tensorflow.org/))
 
 [Pandas](https://en.wikipedia.org/wiki/PANDAS)
+
 [Resnet34](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.html)
+
+
 
 ## Usage
 - The website/app is intended to classify MRI brain tumor into 4 clasess: no tumor, glioma, meningioma and pituitary.
