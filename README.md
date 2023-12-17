@@ -8,7 +8,7 @@
 ## Built With
 [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-[Tensorflow](https://en.wikipedia.org/wiki/NumPy](https://www.tensorflow.org/)
+[Tensorflow](https://www.tensorflow.org/)
 
 [Pandas](https://en.wikipedia.org/wiki/PANDAS)
 
