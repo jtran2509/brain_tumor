@@ -1,14 +1,14 @@
 # Brain Tumor Classifier
 ## About the Project
-- A brain tumor is considered as one of the aggressive diseases, among childer and adults. With manual examination, it can be error-prone due to the level of complexities. Hence, the addition of Machine Learning (ML) and Artificial intelligence (AI) has consistently shown higher accuracy than manual classification.
+- A brain tumor is considered as one of the aggressive diseases, among children and adults. With manual examination, it can be error-prone due to the level of complexity. Hence, adding Machine Learning (ML) and Artificial intelligence (AI) has consistently shown higher accuracy than manual classification.
 - Since the dataset at [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) only contains more than 3k of MRI, we will download another dataset from [Kaggle](https://www.kaggle.com/datasets/alaminbhuyan/mri-image-data)
 - These 2 datasets contain over a total of 10,000 brain MRI images which are classified into 4 classes: no tumor, glioma, meningioma and pituitary
-- **Goal**: Create a machine learning model that capable of classifying correct brain tumor with an aim of accuracy over 93%
+- **Goal**: Create a machine learning model that is capable of classifying correct brain tumors with an aim of accuracy of over 93%
   
 ## Built With
 [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
-[Tensorflow]([https://en.wikipedia.org/wiki/NumPy](https://www.tensorflow.org/))
+[Tensorflow](https://en.wikipedia.org/wiki/NumPy](https://www.tensorflow.org/)
 
 [Pandas](https://en.wikipedia.org/wiki/PANDAS)
 
