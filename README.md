@@ -67,8 +67,8 @@ In this project, we experience 3 different models with increasing complexities t
 
 The table below will display various accuracy achieved by diffrent models:
 
-| Type of Tumor | Glioma | Meningioma | No tumor | Pituitary |
-| --- | --- |
+| Type of Tumor | Glioma | Meningioma | No tumor | Pituitary | |
+| --------- | --------- |
 | 1-layer CNN | 92% | 80% | 91% | 91% |
 | 9-layer CNN | 88% | 90% | 97% | 93% |
 | Resnet34 | 98% | 89% | 96% | 97% |
@@ -94,5 +94,5 @@ To further enhance the performance and capabilities as well as practicality of t
 | --- | --- |
 | Professional Email | dungvn1999@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/dungtran99/ |
-| Project Link | [https://github.com/jtran2509/predict_washington_bike_rental]() 
+| Project Link | [https://github.com/jtran2509/brain_tumor]() |
 
