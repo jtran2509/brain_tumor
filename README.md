@@ -18,7 +18,7 @@
 
 **Assist doctors in treatment planning**: produces sencond opinion in a time-ly manner can alert the doctors during the treatment planning process and speed uo workflow efficiency
 
-**Better performance Overall**:  
+**Better performance Overall**:  When analyzing MRI, there must be a radiologist and a neurosurgeon on-site, hence, an automated system on Cloud can add a valuable second opinion in a timely manner
 
 ## 4. Data Source:
 - Dataset: [Brain Tumor Classification MRI](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) and [MRI Image Data](https://www.kaggle.com/datasets/alaminbhuyan/mri-image-data)
@@ -67,8 +67,8 @@ In this project, we experience 3 different models with increasing complexities t
 
 The table below will display various accuracy achieved by diffrent models:
 
-| Type of Tumor | Glioma | Meningioma | No tumor | Pituitary | |
-| --------- | --------- |
+| Type of Tumor | Glioma | Meningioma | No tumor | Pituitary  |
+| --- | --- | --- | --- | ---| 
 | 1-layer CNN | 92% | 80% | 91% | 91% |
 | 9-layer CNN | 88% | 90% | 97% | 93% |
 | Resnet34 | 98% | 89% | 96% | 97% |
